@@ -62,6 +62,15 @@ background-color: #f5f5f5;
     -moz-border-radius: 24px;
 }
 
+.modal-dialog {
+	position: absolute;
+	width: auto;
+	left: 50%;
+	margin-left: -300px;
+	top: 50%;
+	margin-top: -173px;
+}
+
 .btn-lg {
 	font-size: 36px;
 }
